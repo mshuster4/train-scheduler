@@ -33,3 +33,10 @@ label {
 #add-train-btn {
     background-color:rgba(61,91,59);
 }
+
+
+#add-train-btn, input[type="text"], textarea{
+    outline: none;
+    box-shadow:none !important;
+    border:1px solid #ccc !important;
+}
