@@ -1,0 +1,35 @@
+body {
+    background-image: url("../images/train-background.jpg");
+    background-size: cover;
+    height: 100vh; 
+    background-repeat: no-repeat;    
+
+}
+
+.jumbotron {
+    margin-top: 2rem; 
+    padding: 20px;
+    background-color:rgba(61,91,59);
+    border-style: solid;
+    border-color: white;
+    border-width: 1px; 
+    color: white;
+}
+
+.card-header {
+    background-color:rgba(61,91,59);
+    color: white; 
+    font-weight: bold; 
+}
+
+th {
+    font-weight: bold; 
+}
+
+label {
+    font-weight: bold; 
+}
+
+#add-train-btn {
+    background-color:rgba(61,91,59);
+}
